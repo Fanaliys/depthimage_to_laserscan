@@ -1,2 +1,7 @@
-# depthimage_to_laserscan
-laser scan node for Intel Realsense R200 used in Bioloid Type A humanoid robot
+depthimage_to_laserscan
+=======================
+
+Converts a depth image to a laser scan for use with navigation and localization.
+
+ROS Wiki Page:
+http://www.ros.org/wiki/depthimage_to_laserscan
